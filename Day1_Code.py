@@ -1,6 +1,6 @@
 import os
 
-full_path = os.path.join(os.getcwd(),'Day1/Day1_Input.txt')
+full_path = os.path.join(os.getcwd(),'Input/Day1_Input.txt')
 
 file = open(full_path,'r')
 data = file.read()
